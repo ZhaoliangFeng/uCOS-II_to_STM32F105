@@ -1,0 +1,14 @@
+..\output\ucos_ii.o: ..\UCOSII\Source\ucos_ii.c
+..\output\ucos_ii.o: ..\UCOSII\Source\ucos_ii.h
+..\output\ucos_ii.o: ..\UCOSII\Source\os_cfg_r.h
+..\output\ucos_ii.o: ..\UCOSII\RealView\os_cpu.h
+..\output\ucos_ii.o: ..\UCOSII\Source\os_core.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_flag.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_mbox.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_mem.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_mutex.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_q.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_sem.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_task.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_time.c
+..\output\ucos_ii.o: ..\UCOSII\Source\os_tmr.c

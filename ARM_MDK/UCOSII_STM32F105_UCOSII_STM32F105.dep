@@ -1,0 +1,329 @@
+Dependencies for Project 'UCOSII_STM32F105', Target 'UCOSII_STM32F105': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_cl.s)(0x5904301E)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x--list ..\listing\startup_stm32f10x_cl.lst --xref -o ..\output\startup_stm32f10x_cl.o --depend ..\output\startup_stm32f10x_cl.d)
+F (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.c)(0x590425D6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\system_stm32f10x.o --omf_browse ..\output\system_stm32f10x.crf --depend ..\output\system_stm32f10x.d)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+F (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.c)(0x566007EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\core_cm3.o --omf_browse ..\output\core_cm3.crf --depend ..\output\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+F (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\src\misc.c)(0x566007EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\misc.o --omf_browse ..\output\misc.crf --depend ..\output\misc.d)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+F (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c)(0x566007EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\stm32f10x_flash.o --omf_browse ..\output\stm32f10x_flash.crf --depend ..\output\stm32f10x_flash.d)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+F (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x566007EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\stm32f10x_gpio.o --omf_browse ..\output\stm32f10x_gpio.crf --depend ..\output\stm32f10x_gpio.d)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+F (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x56EBCAAE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\stm32f10x_rcc.o --omf_browse ..\output\stm32f10x_rcc.crf --depend ..\output\stm32f10x_rcc.d)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+F (..\UCOSII\RealView\os_cpu_a.asm)(0x59055A11)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x--list ..\listing\os_cpu_a.lst --xref -o ..\output\os_cpu_a.o --depend ..\output\os_cpu_a.d)
+F (..\UCOSII\RealView\os_cpu_c.c)(0x5905681B)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_cpu_c.o --omf_browse ..\output\os_cpu_c.crf --depend ..\output\os_cpu_c.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_core.c)(0x59042E7E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_core.o --omf_browse ..\output\os_core.crf --depend ..\output\os_core.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_flag.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_flag.o --omf_browse ..\output\os_flag.crf --depend ..\output\os_flag.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_mbox.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_mbox.o --omf_browse ..\output\os_mbox.crf --depend ..\output\os_mbox.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_mem.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_mem.o --omf_browse ..\output\os_mem.crf --depend ..\output\os_mem.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_mutex.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_mutex.o --omf_browse ..\output\os_mutex.crf --depend ..\output\os_mutex.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_q.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_q.o --omf_browse ..\output\os_q.crf --depend ..\output\os_q.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_sem.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_sem.o --omf_browse ..\output\os_sem.crf --depend ..\output\os_sem.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_task.c)(0x59045887)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_task.o --omf_browse ..\output\os_task.crf --depend ..\output\os_task.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_time.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_time.o --omf_browse ..\output\os_time.crf --depend ..\output\os_time.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\UCOSII\Source\os_tmr.c)(0x4C0714AE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\os_tmr.o --omf_browse ..\output\os_tmr.crf --depend ..\output\os_tmr.d)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\BSP\stm32f10x_it.c)(0x59041A59)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\stm32f10x_it.o --omf_browse ..\output\stm32f10x_it.crf --depend ..\output\stm32f10x_it.d)
+I (..\BSP\stm32f10x_it.h)(0x4D99A59E)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+F (..\BSP\bsp.c)(0x5904554D)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\bsp.o --omf_browse ..\output\bsp.crf --depend ..\output\bsp.d)
+I (..\BSP\bsp.h)(0x590431B2)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (..\BSP\led.h)(0x59041F3B)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+F (..\BSP\led.c)(0x5904554E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\led.o --omf_browse ..\output\led.crf --depend ..\output\led.d)
+I (..\BSP\led.h)(0x59041F3B)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+F (..\Main\main.c)(0x5907F70A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\BSP -I..\STM32_StdPeriph_Library\CMSIS\CoreSupport -I..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc -I..\UCOSII\Source -I..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x -I..\STM32_StdPeriph_Library\STM32F10X_CONF_H -I..\UCOSII\RealView-I D:\Keil_v5\ARM\RV31\INC-I D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\Keil_v5\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_CL-o ..\output\main.o --omf_browse ..\output\main.crf --depend ..\output\main.d)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x59042637)
+I (..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h)(0x566007EE)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h)(0x590419DA)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x566007EE)
+I (..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x566007EE)
+I (..\BSP\bsp.h)(0x590431B2)
+I (..\BSP\led.h)(0x59041F3B)
+I (..\UCOSII\Source\os_cfg_r.h)(0x59057D3B)
+I (..\UCOSII\Source\ucos_ii.h)(0x59056819)
+I (..\UCOSII\RealView\os_cpu.h)(0x483F2548)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (D:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+F (..\Readme\Readme.txt)(0x590410E9)()

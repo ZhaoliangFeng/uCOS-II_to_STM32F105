@@ -1,0 +1,15 @@
+..\output\bsp.o: ..\BSP\bsp.c
+..\output\bsp.o: ..\BSP\bsp.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm3.h
+..\output\bsp.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\STM32F10X_CONF_H\stm32f10x_conf.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\bsp.o: ..\STM32_StdPeriph_Library\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\bsp.o: ..\BSP\led.h
+..\output\bsp.o: ..\UCOSII\Source\os_cfg_r.h
